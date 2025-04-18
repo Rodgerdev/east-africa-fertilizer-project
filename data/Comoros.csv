@@ -1,0 +1,1545 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Comoros,COM,2022,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,3.90676923076923
+Comoros,COM,2021,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,3.366
+Comoros,COM,2020,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,6.39123076923077
+Comoros,COM,2019,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,1.782
+Comoros,COM,2018,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,1.13723076923077
+Comoros,COM,2017,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.0989230769230769
+Comoros,COM,2016,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.698615384615385
+Comoros,COM,2015,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.142923076923077
+Comoros,COM,2014,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.0329230769230769
+Comoros,COM,2013,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.146461538461538
+Comoros,COM,2012,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.227538461538462
+Comoros,COM,2010,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.254769230769231
+Comoros,COM,2009,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.362307692307692
+Comoros,COM,2008,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.391846153846154
+Comoros,COM,2006,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.103846153846154
+Comoros,COM,2003,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.376
+Comoros,COM,2002,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,0.854615384615385
+Comoros,COM,2001,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,2000,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1999,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1998,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1997,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1996,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1995,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1994,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,4.61538461538461
+Comoros,COM,1993,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,1.53846153846154
+Comoros,COM,1992,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,1.53846153846154
+Comoros,COM,1991,Fertilizer consumption (kilograms per hectare of arable land),AG.CON.FERT.ZS,1.53846153846154
+Comoros,COM,2021,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2020,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2019,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2018,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2017,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2016,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2015,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2014,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2013,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2012,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2011,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2010,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2009,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2008,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2007,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2006,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2005,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2004,Agricultural land (sq. km),AG.LND.AGRI.K2,1330
+Comoros,COM,2003,Agricultural land (sq. km),AG.LND.AGRI.K2,1320
+Comoros,COM,2002,Agricultural land (sq. km),AG.LND.AGRI.K2,1310
+Comoros,COM,2001,Agricultural land (sq. km),AG.LND.AGRI.K2,1300
+Comoros,COM,2000,Agricultural land (sq. km),AG.LND.AGRI.K2,1280
+Comoros,COM,1999,Agricultural land (sq. km),AG.LND.AGRI.K2,1270
+Comoros,COM,1998,Agricultural land (sq. km),AG.LND.AGRI.K2,1260
+Comoros,COM,1997,Agricultural land (sq. km),AG.LND.AGRI.K2,1260
+Comoros,COM,1996,Agricultural land (sq. km),AG.LND.AGRI.K2,1240
+Comoros,COM,1995,Agricultural land (sq. km),AG.LND.AGRI.K2,1220
+Comoros,COM,1994,Agricultural land (sq. km),AG.LND.AGRI.K2,1200
+Comoros,COM,1993,Agricultural land (sq. km),AG.LND.AGRI.K2,1180
+Comoros,COM,1992,Agricultural land (sq. km),AG.LND.AGRI.K2,1150
+Comoros,COM,1991,Agricultural land (sq. km),AG.LND.AGRI.K2,1150
+Comoros,COM,1990,Agricultural land (sq. km),AG.LND.AGRI.K2,1140
+Comoros,COM,1989,Agricultural land (sq. km),AG.LND.AGRI.K2,1140
+Comoros,COM,1988,Agricultural land (sq. km),AG.LND.AGRI.K2,1140
+Comoros,COM,1987,Agricultural land (sq. km),AG.LND.AGRI.K2,1130
+Comoros,COM,1986,Agricultural land (sq. km),AG.LND.AGRI.K2,1100
+Comoros,COM,1985,Agricultural land (sq. km),AG.LND.AGRI.K2,1100
+Comoros,COM,1984,Agricultural land (sq. km),AG.LND.AGRI.K2,1100
+Comoros,COM,1983,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1982,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1981,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1980,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1979,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1978,Agricultural land (sq. km),AG.LND.AGRI.K2,1000
+Comoros,COM,1977,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1976,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1975,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1974,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1973,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1972,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1971,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1970,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1969,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1968,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1967,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1966,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1965,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1964,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1963,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1962,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,1961,Agricultural land (sq. km),AG.LND.AGRI.K2,950
+Comoros,COM,2022,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2021,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2020,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2019,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2018,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2017,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2016,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2015,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2014,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2013,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2012,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2011,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2010,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2009,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2008,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2007,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2006,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2005,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2004,Agricultural land (% of land area),AG.LND.AGRI.ZS,71.4669532509404
+Comoros,COM,2003,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.9296077377754
+Comoros,COM,2002,Agricultural land (% of land area),AG.LND.AGRI.ZS,70.3922622246104
+Comoros,COM,2001,Agricultural land (% of land area),AG.LND.AGRI.ZS,69.8549167114455
+Comoros,COM,2000,Agricultural land (% of land area),AG.LND.AGRI.ZS,68.7802256851155
+Comoros,COM,1999,Agricultural land (% of land area),AG.LND.AGRI.ZS,68.2428801719506
+Comoros,COM,1998,Agricultural land (% of land area),AG.LND.AGRI.ZS,67.7055346587856
+Comoros,COM,1997,Agricultural land (% of land area),AG.LND.AGRI.ZS,67.7055346587856
+Comoros,COM,1996,Agricultural land (% of land area),AG.LND.AGRI.ZS,66.6308436324557
+Comoros,COM,1995,Agricultural land (% of land area),AG.LND.AGRI.ZS,65.5561526061257
+Comoros,COM,1994,Agricultural land (% of land area),AG.LND.AGRI.ZS,64.4814615797958
+Comoros,COM,1993,Agricultural land (% of land area),AG.LND.AGRI.ZS,63.4067705534659
+Comoros,COM,1992,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.794734013971
+Comoros,COM,1991,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.794734013971
+Comoros,COM,1990,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.257388500806
+Comoros,COM,1989,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.257388500806
+Comoros,COM,1988,Agricultural land (% of land area),AG.LND.AGRI.ZS,61.257388500806
+Comoros,COM,1987,Agricultural land (% of land area),AG.LND.AGRI.ZS,60.7200429876411
+Comoros,COM,1986,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.1080064481462
+Comoros,COM,1985,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.1080064481462
+Comoros,COM,1984,Agricultural land (% of land area),AG.LND.AGRI.ZS,59.1080064481462
+Comoros,COM,1983,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1982,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1981,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1980,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1979,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1978,Agricultural land (% of land area),AG.LND.AGRI.ZS,53.7345513164965
+Comoros,COM,1977,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1976,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1975,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1974,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1973,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1972,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1971,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1970,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1969,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1968,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1967,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1966,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1965,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1964,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1963,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1962,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,1961,Agricultural land (% of land area),AG.LND.AGRI.ZS,51.0478237506717
+Comoros,COM,2021,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2020,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2019,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2018,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2017,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2016,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2015,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2014,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2013,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2012,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2011,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2010,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2009,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2008,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2007,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2006,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2005,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2004,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2003,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2002,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2001,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2000,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1999,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1998,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1997,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1996,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1995,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1994,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1993,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1992,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1991,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1990,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1989,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1988,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1987,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1986,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1985,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1984,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1983,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1982,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1981,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1980,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1979,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1978,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1977,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1976,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1975,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1974,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1973,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1972,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1971,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1970,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1969,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1968,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1967,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1966,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1965,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1964,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1963,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1962,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,1961,Arable land (hectares),AG.LND.ARBL.HA,65000
+Comoros,COM,2021,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0794452035875009
+Comoros,COM,2020,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0810309126698688
+Comoros,COM,2019,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.082636432750471
+Comoros,COM,2018,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0842416309179746
+Comoros,COM,2017,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0859028188018803
+Comoros,COM,2016,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.087631666579035
+Comoros,COM,2015,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0894476538568452
+Comoros,COM,2014,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.091355904332097
+Comoros,COM,2013,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0933650487221916
+Comoros,COM,2012,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0953596525974502
+Comoros,COM,2011,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0972972325673297
+Comoros,COM,2010,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.0992614944810609
+Comoros,COM,2009,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.101254464932463
+Comoros,COM,2008,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.103288220216842
+Comoros,COM,2007,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.105360926009074
+Comoros,COM,2006,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.107481897568098
+Comoros,COM,2005,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.10967187861179
+Comoros,COM,2004,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.11193310189012
+Comoros,COM,2003,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.11407551448057
+Comoros,COM,2002,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.116295088947851
+Comoros,COM,2001,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.118782208252622
+Comoros,COM,2000,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.121250559617967
+Comoros,COM,1999,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.123600932521497
+Comoros,COM,1998,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.125823417480163
+Comoros,COM,1997,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.128008948810206
+Comoros,COM,1996,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.130232595415412
+Comoros,COM,1995,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.132494608488624
+Comoros,COM,1994,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.134815054486023
+Comoros,COM,1993,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.137222862595581
+Comoros,COM,1992,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.139750985244446
+Comoros,COM,1991,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.142682787626549
+Comoros,COM,1990,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.146200145750299
+Comoros,COM,1989,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.15007977317174
+Comoros,COM,1988,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.154142764657198
+Comoros,COM,1987,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.158367016779595
+Comoros,COM,1986,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.162777535698366
+Comoros,COM,1985,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.167373928806856
+Comoros,COM,1984,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.172122964645943
+Comoros,COM,1983,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.176999343740895
+Comoros,COM,1982,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.182001965621229
+Comoros,COM,1981,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.187113897668849
+Comoros,COM,1980,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.192466562636022
+Comoros,COM,1979,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.198297085642986
+Comoros,COM,1978,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.204603258542973
+Comoros,COM,1977,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.211327821470256
+Comoros,COM,1976,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.218459490888559
+Comoros,COM,1975,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.225936070519862
+Comoros,COM,1974,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.233749887620246
+Comoros,COM,1973,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.241797485306153
+Comoros,COM,1972,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.249925983458745
+Comoros,COM,1971,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.25807476227344
+Comoros,COM,1970,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.266191617011692
+Comoros,COM,1969,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.274260446158455
+Comoros,COM,1968,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.282309202411355
+Comoros,COM,1967,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.290361343524272
+Comoros,COM,1966,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.297261082121804
+Comoros,COM,1965,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.302371991980164
+Comoros,COM,1964,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.307119502560904
+Comoros,COM,1963,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.312222302279223
+Comoros,COM,1962,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.317534757843109
+Comoros,COM,1961,Arable land (hectares per person),AG.LND.ARBL.HA.PC,0.323060024552562
+Comoros,COM,2022,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2021,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2020,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2019,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2018,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2017,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2016,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2015,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2014,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2013,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2012,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2011,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2010,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2009,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2008,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2007,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2006,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2005,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2004,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2003,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2002,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2001,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2000,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1999,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1998,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1997,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1996,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1995,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1994,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1993,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1992,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1991,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1990,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1989,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1988,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1987,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1986,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1985,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1984,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1983,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1982,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1981,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1980,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1979,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1978,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1977,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1976,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1975,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1974,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1973,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1972,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1971,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1970,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1969,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1968,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1967,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1966,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1965,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1964,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1963,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1962,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,1961,Arable land (% of land area),AG.LND.ARBL.ZS,34.9274583557227
+Comoros,COM,2022,Land under cereal production (hectares),AG.LND.CREL.HA,10953
+Comoros,COM,2021,Land under cereal production (hectares),AG.LND.CREL.HA,10580
+Comoros,COM,2020,Land under cereal production (hectares),AG.LND.CREL.HA,10181
+Comoros,COM,2019,Land under cereal production (hectares),AG.LND.CREL.HA,9795
+Comoros,COM,2018,Land under cereal production (hectares),AG.LND.CREL.HA,9463
+Comoros,COM,2017,Land under cereal production (hectares),AG.LND.CREL.HA,9022
+Comoros,COM,2016,Land under cereal production (hectares),AG.LND.CREL.HA,8638
+Comoros,COM,2015,Land under cereal production (hectares),AG.LND.CREL.HA,8262
+Comoros,COM,2014,Land under cereal production (hectares),AG.LND.CREL.HA,7892
+Comoros,COM,2013,Land under cereal production (hectares),AG.LND.CREL.HA,7454
+Comoros,COM,2012,Land under cereal production (hectares),AG.LND.CREL.HA,6993
+Comoros,COM,2011,Land under cereal production (hectares),AG.LND.CREL.HA,6511
+Comoros,COM,2010,Land under cereal production (hectares),AG.LND.CREL.HA,6002
+Comoros,COM,2009,Land under cereal production (hectares),AG.LND.CREL.HA,5864
+Comoros,COM,2008,Land under cereal production (hectares),AG.LND.CREL.HA,5656
+Comoros,COM,2007,Land under cereal production (hectares),AG.LND.CREL.HA,4556
+Comoros,COM,2006,Land under cereal production (hectares),AG.LND.CREL.HA,4654
+Comoros,COM,2005,Land under cereal production (hectares),AG.LND.CREL.HA,4809
+Comoros,COM,2004,Land under cereal production (hectares),AG.LND.CREL.HA,5875
+Comoros,COM,2003,Land under cereal production (hectares),AG.LND.CREL.HA,5074
+Comoros,COM,2002,Land under cereal production (hectares),AG.LND.CREL.HA,5168
+Comoros,COM,2001,Land under cereal production (hectares),AG.LND.CREL.HA,5315
+Comoros,COM,2000,Land under cereal production (hectares),AG.LND.CREL.HA,5429
+Comoros,COM,1999,Land under cereal production (hectares),AG.LND.CREL.HA,5509
+Comoros,COM,1998,Land under cereal production (hectares),AG.LND.CREL.HA,5856
+Comoros,COM,1997,Land under cereal production (hectares),AG.LND.CREL.HA,5757
+Comoros,COM,1996,Land under cereal production (hectares),AG.LND.CREL.HA,5843
+Comoros,COM,1995,Land under cereal production (hectares),AG.LND.CREL.HA,5972
+Comoros,COM,1994,Land under cereal production (hectares),AG.LND.CREL.HA,6074
+Comoros,COM,1993,Land under cereal production (hectares),AG.LND.CREL.HA,6188
+Comoros,COM,1992,Land under cereal production (hectares),AG.LND.CREL.HA,6314
+Comoros,COM,1991,Land under cereal production (hectares),AG.LND.CREL.HA,6527
+Comoros,COM,1990,Land under cereal production (hectares),AG.LND.CREL.HA,14724
+Comoros,COM,1989,Land under cereal production (hectares),AG.LND.CREL.HA,14477
+Comoros,COM,1988,Land under cereal production (hectares),AG.LND.CREL.HA,14257
+Comoros,COM,1987,Land under cereal production (hectares),AG.LND.CREL.HA,14236
+Comoros,COM,1986,Land under cereal production (hectares),AG.LND.CREL.HA,15200
+Comoros,COM,1985,Land under cereal production (hectares),AG.LND.CREL.HA,15200
+Comoros,COM,1984,Land under cereal production (hectares),AG.LND.CREL.HA,15000
+Comoros,COM,1983,Land under cereal production (hectares),AG.LND.CREL.HA,16000
+Comoros,COM,1982,Land under cereal production (hectares),AG.LND.CREL.HA,17200
+Comoros,COM,1981,Land under cereal production (hectares),AG.LND.CREL.HA,17300
+Comoros,COM,1980,Land under cereal production (hectares),AG.LND.CREL.HA,17200
+Comoros,COM,1979,Land under cereal production (hectares),AG.LND.CREL.HA,17000
+Comoros,COM,1978,Land under cereal production (hectares),AG.LND.CREL.HA,15500
+Comoros,COM,1977,Land under cereal production (hectares),AG.LND.CREL.HA,14600
+Comoros,COM,1976,Land under cereal production (hectares),AG.LND.CREL.HA,14000
+Comoros,COM,1975,Land under cereal production (hectares),AG.LND.CREL.HA,13300
+Comoros,COM,1974,Land under cereal production (hectares),AG.LND.CREL.HA,13100
+Comoros,COM,1973,Land under cereal production (hectares),AG.LND.CREL.HA,12700
+Comoros,COM,1972,Land under cereal production (hectares),AG.LND.CREL.HA,12500
+Comoros,COM,1971,Land under cereal production (hectares),AG.LND.CREL.HA,12300
+Comoros,COM,1970,Land under cereal production (hectares),AG.LND.CREL.HA,12300
+Comoros,COM,1969,Land under cereal production (hectares),AG.LND.CREL.HA,12300
+Comoros,COM,1968,Land under cereal production (hectares),AG.LND.CREL.HA,12200
+Comoros,COM,1967,Land under cereal production (hectares),AG.LND.CREL.HA,14100
+Comoros,COM,1966,Land under cereal production (hectares),AG.LND.CREL.HA,15000
+Comoros,COM,1965,Land under cereal production (hectares),AG.LND.CREL.HA,13700
+Comoros,COM,1964,Land under cereal production (hectares),AG.LND.CREL.HA,11700
+Comoros,COM,1963,Land under cereal production (hectares),AG.LND.CREL.HA,11350
+Comoros,COM,1962,Land under cereal production (hectares),AG.LND.CREL.HA,10100
+Comoros,COM,1961,Land under cereal production (hectares),AG.LND.CREL.HA,10200
+Comoros,COM,2022,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2021,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2020,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2019,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2018,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2017,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2016,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2015,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2014,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2013,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2012,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2011,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2010,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2009,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2008,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2007,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2006,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2005,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2004,Permanent cropland (% of land area),AG.LND.CROP.ZS,28.4793121977432
+Comoros,COM,2003,Permanent cropland (% of land area),AG.LND.CROP.ZS,27.9419666845782
+Comoros,COM,2002,Permanent cropland (% of land area),AG.LND.CROP.ZS,27.4046211714132
+Comoros,COM,2001,Permanent cropland (% of land area),AG.LND.CROP.ZS,26.8672756582483
+Comoros,COM,2000,Permanent cropland (% of land area),AG.LND.CROP.ZS,25.7925846319183
+Comoros,COM,1999,Permanent cropland (% of land area),AG.LND.CROP.ZS,25.2552391187534
+Comoros,COM,1998,Permanent cropland (% of land area),AG.LND.CROP.ZS,24.7178936055884
+Comoros,COM,1997,Permanent cropland (% of land area),AG.LND.CROP.ZS,24.7178936055884
+Comoros,COM,1996,Permanent cropland (% of land area),AG.LND.CROP.ZS,23.6432025792585
+Comoros,COM,1995,Permanent cropland (% of land area),AG.LND.CROP.ZS,22.5685115529285
+Comoros,COM,1994,Permanent cropland (% of land area),AG.LND.CROP.ZS,21.4938205265986
+Comoros,COM,1993,Permanent cropland (% of land area),AG.LND.CROP.ZS,20.4191295002687
+Comoros,COM,1992,Permanent cropland (% of land area),AG.LND.CROP.ZS,18.8070929607738
+Comoros,COM,1991,Permanent cropland (% of land area),AG.LND.CROP.ZS,18.8070929607738
+Comoros,COM,1990,Permanent cropland (% of land area),AG.LND.CROP.ZS,18.2697474476088
+Comoros,COM,1989,Permanent cropland (% of land area),AG.LND.CROP.ZS,18.2697474476088
+Comoros,COM,1988,Permanent cropland (% of land area),AG.LND.CROP.ZS,18.2697474476088
+Comoros,COM,1987,Permanent cropland (% of land area),AG.LND.CROP.ZS,17.7324019344438
+Comoros,COM,1986,Permanent cropland (% of land area),AG.LND.CROP.ZS,16.120365394949
+Comoros,COM,1985,Permanent cropland (% of land area),AG.LND.CROP.ZS,16.120365394949
+Comoros,COM,1984,Permanent cropland (% of land area),AG.LND.CROP.ZS,16.120365394949
+Comoros,COM,1983,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1982,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1981,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1980,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1979,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1978,Permanent cropland (% of land area),AG.LND.CROP.ZS,10.7469102632993
+Comoros,COM,1977,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1976,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1975,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1974,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1973,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1972,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1971,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1970,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1969,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1968,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1967,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1966,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1965,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1964,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1963,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1962,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,1961,Permanent cropland (% of land area),AG.LND.CROP.ZS,8.06018269747448
+Comoros,COM,2015,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,56.5786497937
+Comoros,COM,2000,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,61.3386490572
+Comoros,COM,1990,Rural land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.RU.K2,62.0318681061
+Comoros,COM,2015,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,3.37319533673687
+Comoros,COM,2000,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,3.65698449353714
+Comoros,COM,1990,Rural land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.RU.ZS,3.6983139220686
+Comoros,COM,2022,Forest area (sq. km),AG.LND.FRST.K2,320.4
+Comoros,COM,2021,Forest area (sq. km),AG.LND.FRST.K2,324.8
+Comoros,COM,2020,Forest area (sq. km),AG.LND.FRST.K2,329.2
+Comoros,COM,2019,Forest area (sq. km),AG.LND.FRST.K2,333.6
+Comoros,COM,2018,Forest area (sq. km),AG.LND.FRST.K2,338
+Comoros,COM,2017,Forest area (sq. km),AG.LND.FRST.K2,342.3
+Comoros,COM,2016,Forest area (sq. km),AG.LND.FRST.K2,346.7
+Comoros,COM,2015,Forest area (sq. km),AG.LND.FRST.K2,351.1
+Comoros,COM,2014,Forest area (sq. km),AG.LND.FRST.K2,355.48
+Comoros,COM,2013,Forest area (sq. km),AG.LND.FRST.K2,359.86
+Comoros,COM,2012,Forest area (sq. km),AG.LND.FRST.K2,364.24
+Comoros,COM,2011,Forest area (sq. km),AG.LND.FRST.K2,368.62
+Comoros,COM,2010,Forest area (sq. km),AG.LND.FRST.K2,373
+Comoros,COM,2009,Forest area (sq. km),AG.LND.FRST.K2,377.38
+Comoros,COM,2008,Forest area (sq. km),AG.LND.FRST.K2,381.76
+Comoros,COM,2007,Forest area (sq. km),AG.LND.FRST.K2,386.14
+Comoros,COM,2006,Forest area (sq. km),AG.LND.FRST.K2,390.52
+Comoros,COM,2005,Forest area (sq. km),AG.LND.FRST.K2,394.9
+Comoros,COM,2004,Forest area (sq. km),AG.LND.FRST.K2,399.28
+Comoros,COM,2003,Forest area (sq. km),AG.LND.FRST.K2,403.66
+Comoros,COM,2002,Forest area (sq. km),AG.LND.FRST.K2,408.04
+Comoros,COM,2001,Forest area (sq. km),AG.LND.FRST.K2,412.42
+Comoros,COM,2000,Forest area (sq. km),AG.LND.FRST.K2,416.8
+Comoros,COM,1999,Forest area (sq. km),AG.LND.FRST.K2,421.18
+Comoros,COM,1998,Forest area (sq. km),AG.LND.FRST.K2,425.56
+Comoros,COM,1997,Forest area (sq. km),AG.LND.FRST.K2,429.94
+Comoros,COM,1996,Forest area (sq. km),AG.LND.FRST.K2,434.32
+Comoros,COM,1995,Forest area (sq. km),AG.LND.FRST.K2,438.7
+Comoros,COM,1994,Forest area (sq. km),AG.LND.FRST.K2,443.08
+Comoros,COM,1993,Forest area (sq. km),AG.LND.FRST.K2,447.46
+Comoros,COM,1992,Forest area (sq. km),AG.LND.FRST.K2,451.84
+Comoros,COM,1991,Forest area (sq. km),AG.LND.FRST.K2,456.22
+Comoros,COM,1990,Forest area (sq. km),AG.LND.FRST.K2,460.6
+Comoros,COM,2022,Forest area (% of land area),AG.LND.FRST.ZS,17.2165502418055
+Comoros,COM,2021,Forest area (% of land area),AG.LND.FRST.ZS,17.4529822675981
+Comoros,COM,2020,Forest area (% of land area),AG.LND.FRST.ZS,17.6894142933906
+Comoros,COM,2019,Forest area (% of land area),AG.LND.FRST.ZS,17.9258463191832
+Comoros,COM,2018,Forest area (% of land area),AG.LND.FRST.ZS,18.1622783449758
+Comoros,COM,2017,Forest area (% of land area),AG.LND.FRST.ZS,18.3933369156368
+Comoros,COM,2016,Forest area (% of land area),AG.LND.FRST.ZS,18.6297689414293
+Comoros,COM,2015,Forest area (% of land area),AG.LND.FRST.ZS,18.8662009672219
+Comoros,COM,2014,Forest area (% of land area),AG.LND.FRST.ZS,19.1015583019882
+Comoros,COM,2013,Forest area (% of land area),AG.LND.FRST.ZS,19.3369156367544
+Comoros,COM,2012,Forest area (% of land area),AG.LND.FRST.ZS,19.5722729715207
+Comoros,COM,2011,Forest area (% of land area),AG.LND.FRST.ZS,19.8076303062869
+Comoros,COM,2010,Forest area (% of land area),AG.LND.FRST.ZS,20.0429876410532
+Comoros,COM,2009,Forest area (% of land area),AG.LND.FRST.ZS,20.2783449758195
+Comoros,COM,2008,Forest area (% of land area),AG.LND.FRST.ZS,20.5137023105857
+Comoros,COM,2007,Forest area (% of land area),AG.LND.FRST.ZS,20.749059645352
+Comoros,COM,2006,Forest area (% of land area),AG.LND.FRST.ZS,20.9844169801182
+Comoros,COM,2005,Forest area (% of land area),AG.LND.FRST.ZS,21.2197743148845
+Comoros,COM,2004,Forest area (% of land area),AG.LND.FRST.ZS,21.4551316496507
+Comoros,COM,2003,Forest area (% of land area),AG.LND.FRST.ZS,21.690488984417
+Comoros,COM,2002,Forest area (% of land area),AG.LND.FRST.ZS,21.9258463191832
+Comoros,COM,2001,Forest area (% of land area),AG.LND.FRST.ZS,22.1612036539495
+Comoros,COM,2000,Forest area (% of land area),AG.LND.FRST.ZS,22.3965609887157
+Comoros,COM,1999,Forest area (% of land area),AG.LND.FRST.ZS,22.631918323482
+Comoros,COM,1998,Forest area (% of land area),AG.LND.FRST.ZS,22.8672756582483
+Comoros,COM,1997,Forest area (% of land area),AG.LND.FRST.ZS,23.1026329930145
+Comoros,COM,1996,Forest area (% of land area),AG.LND.FRST.ZS,23.3379903277808
+Comoros,COM,1995,Forest area (% of land area),AG.LND.FRST.ZS,23.573347662547
+Comoros,COM,1994,Forest area (% of land area),AG.LND.FRST.ZS,23.8087049973133
+Comoros,COM,1993,Forest area (% of land area),AG.LND.FRST.ZS,24.0440623320795
+Comoros,COM,1992,Forest area (% of land area),AG.LND.FRST.ZS,24.2794196668458
+Comoros,COM,1991,Forest area (% of land area),AG.LND.FRST.ZS,24.514777001612
+Comoros,COM,1990,Forest area (% of land area),AG.LND.FRST.ZS,24.7501343363783
+Comoros,COM,2021,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2020,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2019,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2018,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2017,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2016,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2015,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2014,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2013,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2012,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2011,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2010,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2009,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2008,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2007,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2006,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2005,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2004,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2003,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2002,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2001,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2000,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1999,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1998,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1997,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1996,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1995,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1994,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1993,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1992,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1991,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1990,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1989,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1988,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1987,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1986,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1985,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1984,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1983,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1982,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1981,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1980,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1979,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1978,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1977,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1976,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1975,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1974,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1973,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1972,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1971,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1970,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1969,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1968,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1967,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1966,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1965,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1964,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1963,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1962,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,1961,Average precipitation in depth (mm per year),AG.LND.PRCP.MM,900
+Comoros,COM,2022,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2021,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2020,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2019,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2018,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2017,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2016,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2015,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2014,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2013,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2012,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2011,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2010,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2009,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2008,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2007,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2006,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2005,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2004,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2003,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2002,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2001,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2000,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1999,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1998,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1997,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1996,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1995,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1994,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1993,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1992,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1991,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1990,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1989,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1988,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1987,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1986,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1985,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1984,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1983,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1982,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1981,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1980,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1979,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1978,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1977,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1976,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1975,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1974,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1973,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1972,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1971,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1970,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1969,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1968,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1967,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1966,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1965,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1964,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1963,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1962,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,1961,Land area (sq. km),AG.LND.TOTL.K2,1861
+Comoros,COM,2015,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1534.76716252618
+Comoros,COM,2000,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1609.5767229912
+Comoros,COM,1990,Rural land area (sq. km),AG.LND.TOTL.RU.K2,1611.7114552993
+Comoros,COM,2022,Cereal production (metric tons),AG.PRD.CREL.MT,19190.83
+Comoros,COM,2021,Cereal production (metric tons),AG.PRD.CREL.MT,18697
+Comoros,COM,2020,Cereal production (metric tons),AG.PRD.CREL.MT,18143
+Comoros,COM,2019,Cereal production (metric tons),AG.PRD.CREL.MT,17588
+Comoros,COM,2018,Cereal production (metric tons),AG.PRD.CREL.MT,17035
+Comoros,COM,2017,Cereal production (metric tons),AG.PRD.CREL.MT,16480
+Comoros,COM,2016,Cereal production (metric tons),AG.PRD.CREL.MT,15926
+Comoros,COM,2015,Cereal production (metric tons),AG.PRD.CREL.MT,15372
+Comoros,COM,2014,Cereal production (metric tons),AG.PRD.CREL.MT,14818
+Comoros,COM,2013,Cereal production (metric tons),AG.PRD.CREL.MT,14162.39
+Comoros,COM,2012,Cereal production (metric tons),AG.PRD.CREL.MT,13414.4
+Comoros,COM,2011,Cereal production (metric tons),AG.PRD.CREL.MT,12596.15
+Comoros,COM,2010,Cereal production (metric tons),AG.PRD.CREL.MT,11725.8
+Comoros,COM,2009,Cereal production (metric tons),AG.PRD.CREL.MT,9996.41
+Comoros,COM,2008,Cereal production (metric tons),AG.PRD.CREL.MT,9029.91
+Comoros,COM,2007,Cereal production (metric tons),AG.PRD.CREL.MT,6281.92
+Comoros,COM,2006,Cereal production (metric tons),AG.PRD.CREL.MT,5812.35
+Comoros,COM,2005,Cereal production (metric tons),AG.PRD.CREL.MT,5426.83
+Comoros,COM,2004,Cereal production (metric tons),AG.PRD.CREL.MT,5415.3
+Comoros,COM,2003,Cereal production (metric tons),AG.PRD.CREL.MT,4940.21
+Comoros,COM,2002,Cereal production (metric tons),AG.PRD.CREL.MT,4834.15
+Comoros,COM,2001,Cereal production (metric tons),AG.PRD.CREL.MT,4862.26
+Comoros,COM,2000,Cereal production (metric tons),AG.PRD.CREL.MT,4883.37
+Comoros,COM,1999,Cereal production (metric tons),AG.PRD.CREL.MT,4903.43
+Comoros,COM,1998,Cereal production (metric tons),AG.PRD.CREL.MT,4921.25
+Comoros,COM,1997,Cereal production (metric tons),AG.PRD.CREL.MT,4920.52
+Comoros,COM,1996,Cereal production (metric tons),AG.PRD.CREL.MT,4961.68
+Comoros,COM,1995,Cereal production (metric tons),AG.PRD.CREL.MT,5011.96
+Comoros,COM,1994,Cereal production (metric tons),AG.PRD.CREL.MT,4994.55
+Comoros,COM,1993,Cereal production (metric tons),AG.PRD.CREL.MT,4996.58
+Comoros,COM,1992,Cereal production (metric tons),AG.PRD.CREL.MT,5019.2
+Comoros,COM,1991,Cereal production (metric tons),AG.PRD.CREL.MT,5080
+Comoros,COM,1990,Cereal production (metric tons),AG.PRD.CREL.MT,18655
+Comoros,COM,1989,Cereal production (metric tons),AG.PRD.CREL.MT,18550
+Comoros,COM,1988,Cereal production (metric tons),AG.PRD.CREL.MT,16500
+Comoros,COM,1987,Cereal production (metric tons),AG.PRD.CREL.MT,16450
+Comoros,COM,1986,Cereal production (metric tons),AG.PRD.CREL.MT,16990
+Comoros,COM,1985,Cereal production (metric tons),AG.PRD.CREL.MT,16550
+Comoros,COM,1984,Cereal production (metric tons),AG.PRD.CREL.MT,16650
+Comoros,COM,1983,Cereal production (metric tons),AG.PRD.CREL.MT,18000
+Comoros,COM,1982,Cereal production (metric tons),AG.PRD.CREL.MT,18200
+Comoros,COM,1981,Cereal production (metric tons),AG.PRD.CREL.MT,18300
+Comoros,COM,1980,Cereal production (metric tons),AG.PRD.CREL.MT,18200
+Comoros,COM,1979,Cereal production (metric tons),AG.PRD.CREL.MT,18000
+Comoros,COM,1978,Cereal production (metric tons),AG.PRD.CREL.MT,18000
+Comoros,COM,1977,Cereal production (metric tons),AG.PRD.CREL.MT,17600
+Comoros,COM,1976,Cereal production (metric tons),AG.PRD.CREL.MT,16200
+Comoros,COM,1975,Cereal production (metric tons),AG.PRD.CREL.MT,16000
+Comoros,COM,1974,Cereal production (metric tons),AG.PRD.CREL.MT,14800
+Comoros,COM,1973,Cereal production (metric tons),AG.PRD.CREL.MT,13700
+Comoros,COM,1972,Cereal production (metric tons),AG.PRD.CREL.MT,12600
+Comoros,COM,1971,Cereal production (metric tons),AG.PRD.CREL.MT,11500
+Comoros,COM,1970,Cereal production (metric tons),AG.PRD.CREL.MT,13500
+Comoros,COM,1969,Cereal production (metric tons),AG.PRD.CREL.MT,13500
+Comoros,COM,1968,Cereal production (metric tons),AG.PRD.CREL.MT,14500
+Comoros,COM,1967,Cereal production (metric tons),AG.PRD.CREL.MT,15500
+Comoros,COM,1966,Cereal production (metric tons),AG.PRD.CREL.MT,16300
+Comoros,COM,1965,Cereal production (metric tons),AG.PRD.CREL.MT,15000
+Comoros,COM,1964,Cereal production (metric tons),AG.PRD.CREL.MT,13600
+Comoros,COM,1963,Cereal production (metric tons),AG.PRD.CREL.MT,12300
+Comoros,COM,1962,Cereal production (metric tons),AG.PRD.CREL.MT,11300
+Comoros,COM,1961,Cereal production (metric tons),AG.PRD.CREL.MT,11300
+Comoros,COM,2022,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,107.76
+Comoros,COM,2021,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,107.72
+Comoros,COM,2020,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,106.46
+Comoros,COM,2019,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.74
+Comoros,COM,2018,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,105.43
+Comoros,COM,2017,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,103.12
+Comoros,COM,2016,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,102.7
+Comoros,COM,2015,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.58
+Comoros,COM,2014,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,98.72
+Comoros,COM,2013,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,100.67
+Comoros,COM,2012,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.66
+Comoros,COM,2011,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,99.38
+Comoros,COM,2010,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,97.99
+Comoros,COM,2009,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,96.02
+Comoros,COM,2008,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,93.1
+Comoros,COM,2007,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,90.84
+Comoros,COM,2006,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,88.22
+Comoros,COM,2005,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,70.13
+Comoros,COM,2004,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,64.05
+Comoros,COM,2003,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,57.67
+Comoros,COM,2002,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,56.27
+Comoros,COM,2001,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,69.83
+Comoros,COM,2000,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,68.4
+Comoros,COM,1999,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,66.99
+Comoros,COM,1998,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,65.44
+Comoros,COM,1997,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,62.75
+Comoros,COM,1996,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,63.55
+Comoros,COM,1995,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,61.76
+Comoros,COM,1994,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,58.93
+Comoros,COM,1993,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,58.34
+Comoros,COM,1992,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,57.38
+Comoros,COM,1991,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,56.31
+Comoros,COM,1990,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,59.86
+Comoros,COM,1989,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,55.45
+Comoros,COM,1988,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,54.02
+Comoros,COM,1987,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,53.1
+Comoros,COM,1986,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,47.98
+Comoros,COM,1985,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,45.72
+Comoros,COM,1984,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,44.52
+Comoros,COM,1983,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,46.21
+Comoros,COM,1982,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,44.95
+Comoros,COM,1981,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,43.06
+Comoros,COM,1980,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,45.48
+Comoros,COM,1979,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,45.64
+Comoros,COM,1978,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,44.42
+Comoros,COM,1977,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,43.12
+Comoros,COM,1976,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,41.23
+Comoros,COM,1975,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,40.28
+Comoros,COM,1974,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,42.04
+Comoros,COM,1973,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,41.94
+Comoros,COM,1972,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,38.56
+Comoros,COM,1971,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,39.42
+Comoros,COM,1970,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,39.61
+Comoros,COM,1969,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,39.88
+Comoros,COM,1968,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,39.23
+Comoros,COM,1967,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,38.69
+Comoros,COM,1966,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,38.63
+Comoros,COM,1965,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,37.08
+Comoros,COM,1964,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,36.39
+Comoros,COM,1963,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,35.41
+Comoros,COM,1962,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,34.65
+Comoros,COM,1961,Crop production index (2014-2016 = 100),AG.PRD.CROP.XD,34.36
+Comoros,COM,2022,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,106.65
+Comoros,COM,2021,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,106.13
+Comoros,COM,2020,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,105.85
+Comoros,COM,2019,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,104.72
+Comoros,COM,2018,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,104.19
+Comoros,COM,2017,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,102.62
+Comoros,COM,2016,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,102.24
+Comoros,COM,2015,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,98.76
+Comoros,COM,2014,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,99
+Comoros,COM,2013,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,101.46
+Comoros,COM,2012,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,100.19
+Comoros,COM,2011,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,99.91
+Comoros,COM,2010,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,98.51
+Comoros,COM,2009,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,96.56
+Comoros,COM,2008,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,93.68
+Comoros,COM,2007,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,91.58
+Comoros,COM,2006,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,88.93
+Comoros,COM,2005,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,73.08
+Comoros,COM,2004,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,67.73
+Comoros,COM,2003,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,62.07
+Comoros,COM,2002,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,62.1
+Comoros,COM,2001,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,73.43
+Comoros,COM,2000,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,71.57
+Comoros,COM,1999,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,70.96
+Comoros,COM,1998,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,69.11
+Comoros,COM,1997,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,66.5
+Comoros,COM,1996,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,67.49
+Comoros,COM,1995,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,65.87
+Comoros,COM,1994,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,63.48
+Comoros,COM,1993,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,62.71
+Comoros,COM,1992,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,61.6
+Comoros,COM,1991,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,60.46
+Comoros,COM,1990,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,60.31
+Comoros,COM,1989,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,56.92
+Comoros,COM,1988,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,55.52
+Comoros,COM,1987,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,54.44
+Comoros,COM,1986,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,49.73
+Comoros,COM,1985,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,48.09
+Comoros,COM,1984,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,47.2
+Comoros,COM,1983,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,48.62
+Comoros,COM,1982,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,47.6
+Comoros,COM,1981,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,46
+Comoros,COM,1980,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,48.19
+Comoros,COM,1979,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,48.44
+Comoros,COM,1978,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,48.81
+Comoros,COM,1977,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,47.34
+Comoros,COM,1976,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,45.43
+Comoros,COM,1975,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,44.21
+Comoros,COM,1974,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,45.44
+Comoros,COM,1973,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,45.03
+Comoros,COM,1972,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,41.54
+Comoros,COM,1971,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,41.49
+Comoros,COM,1970,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,41.31
+Comoros,COM,1969,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,41.53
+Comoros,COM,1968,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,40.79
+Comoros,COM,1967,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,39.96
+Comoros,COM,1966,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,40.01
+Comoros,COM,1965,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,38.19
+Comoros,COM,1964,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,37.19
+Comoros,COM,1963,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,35.89
+Comoros,COM,1962,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,34.87
+Comoros,COM,1961,Food production index (2014-2016 = 100),AG.PRD.FOOD.XD,34.52
+Comoros,COM,2022,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.79
+Comoros,COM,2021,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,96.24
+Comoros,COM,2020,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,102.07
+Comoros,COM,2019,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,98.41
+Comoros,COM,2018,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,96.51
+Comoros,COM,2017,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.53
+Comoros,COM,2016,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.44
+Comoros,COM,2015,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.84
+Comoros,COM,2014,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,100.72
+Comoros,COM,2013,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,106.42
+Comoros,COM,2012,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,103.49
+Comoros,COM,2011,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,103.23
+Comoros,COM,2010,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,101.76
+Comoros,COM,2009,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,99.86
+Comoros,COM,2008,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,97.32
+Comoros,COM,2007,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,96.2
+Comoros,COM,2006,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,93.38
+Comoros,COM,2005,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.4
+Comoros,COM,2004,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,90.66
+Comoros,COM,2003,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,89.44
+Comoros,COM,2002,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,98.34
+Comoros,COM,2001,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,95.82
+Comoros,COM,2000,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.28
+Comoros,COM,1999,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,95.64
+Comoros,COM,1998,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.89
+Comoros,COM,1997,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,89.83
+Comoros,COM,1996,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.98
+Comoros,COM,1995,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.4
+Comoros,COM,1994,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,91.77
+Comoros,COM,1993,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,89.84
+Comoros,COM,1992,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,87.79
+Comoros,COM,1991,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,86.19
+Comoros,COM,1990,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,63.1
+Comoros,COM,1989,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,66.07
+Comoros,COM,1988,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,64.85
+Comoros,COM,1987,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,62.76
+Comoros,COM,1986,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,60.57
+Comoros,COM,1985,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,62.8
+Comoros,COM,1984,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,63.84
+Comoros,COM,1983,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,63.64
+Comoros,COM,1982,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,64.09
+Comoros,COM,1981,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,64.26
+Comoros,COM,1980,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,65
+Comoros,COM,1979,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,65.83
+Comoros,COM,1978,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,76.13
+Comoros,COM,1977,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,73.55
+Comoros,COM,1976,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,71.57
+Comoros,COM,1975,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,68.63
+Comoros,COM,1974,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,66.59
+Comoros,COM,1973,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,64.23
+Comoros,COM,1972,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,60.09
+Comoros,COM,1971,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,54.64
+Comoros,COM,1970,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,52.48
+Comoros,COM,1969,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,52.49
+Comoros,COM,1968,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,51.68
+Comoros,COM,1967,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,49.62
+Comoros,COM,1966,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,49.99
+Comoros,COM,1965,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,47.59
+Comoros,COM,1964,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,45.16
+Comoros,COM,1963,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,42.71
+Comoros,COM,1962,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,40.28
+Comoros,COM,1961,Livestock production index (2014-2016 = 100),AG.PRD.LVSK.XD,37.8
+Comoros,COM,2022,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2021,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2020,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2019,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2018,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2017,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2016,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2015,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2014,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2013,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2012,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2011,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2010,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2009,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2008,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2007,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2006,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2005,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2004,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2003,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2002,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2001,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2000,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1999,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1998,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1997,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1996,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1995,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1994,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1993,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1992,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1991,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1990,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1989,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1988,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1987,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1986,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1985,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1984,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1983,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1982,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1981,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1980,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1979,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1978,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1977,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1976,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1975,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1974,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1973,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1972,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1971,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1970,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1969,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1968,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1967,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1966,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1965,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1964,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1963,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1962,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,1961,Surface area (sq. km),AG.SRF.TOTL.K2,1861
+Comoros,COM,2022,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1752.1
+Comoros,COM,2021,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1767.2
+Comoros,COM,2020,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1782
+Comoros,COM,2019,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1795.6
+Comoros,COM,2018,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1800.2
+Comoros,COM,2017,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1826.6
+Comoros,COM,2016,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1843.6
+Comoros,COM,2015,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1860.6
+Comoros,COM,2014,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1877.5
+Comoros,COM,2013,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1899.9
+Comoros,COM,2012,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1918.3
+Comoros,COM,2011,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1934.6
+Comoros,COM,2010,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1953.8
+Comoros,COM,2009,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1704.6
+Comoros,COM,2008,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1596.4
+Comoros,COM,2007,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1378.9
+Comoros,COM,2006,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1248.9
+Comoros,COM,2005,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1128.4
+Comoros,COM,2004,Cereal yield (kg per hectare),AG.YLD.CREL.KG,921.7
+Comoros,COM,2003,Cereal yield (kg per hectare),AG.YLD.CREL.KG,973.6
+Comoros,COM,2002,Cereal yield (kg per hectare),AG.YLD.CREL.KG,935.5
+Comoros,COM,2001,Cereal yield (kg per hectare),AG.YLD.CREL.KG,914.8
+Comoros,COM,2000,Cereal yield (kg per hectare),AG.YLD.CREL.KG,899.5
+Comoros,COM,1999,Cereal yield (kg per hectare),AG.YLD.CREL.KG,890.1
+Comoros,COM,1998,Cereal yield (kg per hectare),AG.YLD.CREL.KG,840.3
+Comoros,COM,1997,Cereal yield (kg per hectare),AG.YLD.CREL.KG,854.7
+Comoros,COM,1996,Cereal yield (kg per hectare),AG.YLD.CREL.KG,849.2
+Comoros,COM,1995,Cereal yield (kg per hectare),AG.YLD.CREL.KG,839.3
+Comoros,COM,1994,Cereal yield (kg per hectare),AG.YLD.CREL.KG,822.3
+Comoros,COM,1993,Cereal yield (kg per hectare),AG.YLD.CREL.KG,807.4
+Comoros,COM,1992,Cereal yield (kg per hectare),AG.YLD.CREL.KG,795
+Comoros,COM,1991,Cereal yield (kg per hectare),AG.YLD.CREL.KG,778.3
+Comoros,COM,1990,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1267
+Comoros,COM,1989,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1281.3
+Comoros,COM,1988,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1157.3
+Comoros,COM,1987,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1155.5
+Comoros,COM,1986,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1117.8
+Comoros,COM,1985,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1088.8
+Comoros,COM,1984,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1110
+Comoros,COM,1983,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1125
+Comoros,COM,1982,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1058.1
+Comoros,COM,1981,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1057.8
+Comoros,COM,1980,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1058.1
+Comoros,COM,1979,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1058.8
+Comoros,COM,1978,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1161.3
+Comoros,COM,1977,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1205.5
+Comoros,COM,1976,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1157.1
+Comoros,COM,1975,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1203
+Comoros,COM,1974,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1129.8
+Comoros,COM,1973,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1078.7
+Comoros,COM,1972,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1008
+Comoros,COM,1971,Cereal yield (kg per hectare),AG.YLD.CREL.KG,935
+Comoros,COM,1970,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1097.6
+Comoros,COM,1969,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1097.6
+Comoros,COM,1968,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1188.5
+Comoros,COM,1967,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1099.3
+Comoros,COM,1966,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1086.7
+Comoros,COM,1965,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1094.9
+Comoros,COM,1964,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1162.4
+Comoros,COM,1963,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1083.7
+Comoros,COM,1962,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1118.8
+Comoros,COM,1961,Cereal yield (kg per hectare),AG.YLD.CREL.KG,1107.8
+Comoros,COM,2022,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,82.9
+Comoros,COM,2021,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,82.9
+Comoros,COM,2020,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,80.1
+Comoros,COM,2019,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,77.6
+Comoros,COM,2018,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,75.1
+Comoros,COM,2017,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,72.6
+Comoros,COM,2016,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,70.1
+Comoros,COM,2015,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,67.6
+Comoros,COM,2014,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,65
+Comoros,COM,2013,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,62.5
+Comoros,COM,2012,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.1
+Comoros,COM,2011,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.3
+Comoros,COM,2010,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,63.7
+Comoros,COM,2009,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,52.5
+Comoros,COM,2008,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,50
+Comoros,COM,2007,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,47.5
+Comoros,COM,2006,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,45
+Comoros,COM,2005,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,42.5
+Comoros,COM,2004,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,40.1
+Comoros,COM,2003,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,37.6
+Comoros,COM,2002,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,33.2
+Comoros,COM,2001,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,32.7
+Comoros,COM,2000,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,30.2
+Comoros,COM,1999,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,27.5858429848953
+Comoros,COM,1998,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,25.0082204275858
+Comoros,COM,1997,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,22.4304393678463
+Comoros,COM,1996,"Access to electricity, rural (% of rural population)",EG.ELC.ACCS.RU.ZS,19.8805397711065
+Comoros,COM,2015,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.0717371283665
+Comoros,COM,2000,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.78790105376116
+Comoros,COM,1990,Rural population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.RU.ZS,1.80398017623597
+Comoros,COM,2021,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2020,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2019,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2018,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2017,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2016,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2015,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2014,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2013,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2012,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2011,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2010,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2009,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2008,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2007,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2006,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2005,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2004,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2003,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2002,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2001,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2000,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,1999,"Annual freshwater withdrawals, agriculture (% of total freshwater withdrawal)",ER.H2O.FWAG.ZS,47
+Comoros,COM,2023,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,502886566.58238
+Comoros,COM,2022,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,452428602.255503
+Comoros,COM,2021,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,460262791.015592
+Comoros,COM,2020,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,438532225.247517
+Comoros,COM,2019,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,425667128.237453
+Comoros,COM,2018,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,400864319.490221
+Comoros,COM,2017,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,343691289.037446
+Comoros,COM,2016,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,317711018.379799
+Comoros,COM,2015,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,295591805.983505
+Comoros,COM,2014,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,345007931.926139
+Comoros,COM,2013,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,343683868.310322
+Comoros,COM,2012,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,306510084.813258
+Comoros,COM,2011,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,312698348.0587
+Comoros,COM,2010,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,276171351.024854
+Comoros,COM,2009,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,271901172.348379
+Comoros,COM,2008,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,266813129.23406
+Comoros,COM,2007,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,230400260.225154
+Comoros,COM,2006,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,205173702.824414
+Comoros,COM,2005,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,192075347.693173
+Comoros,COM,2004,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,186157633.32617
+Comoros,COM,2003,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,160653699.05533
+Comoros,COM,2002,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,125131437.597692
+Comoros,COM,2001,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,111192776.922454
+Comoros,COM,2000,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,103151005.06437
+Comoros,COM,1999,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,112351350.637302
+Comoros,COM,1998,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,108721978.376312
+Comoros,COM,1997,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,107059535.95529
+Comoros,COM,1996,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,116345203.906484
+Comoros,COM,1995,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,117054012.918088
+Comoros,COM,1994,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,93765875.4802286
+Comoros,COM,1993,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,133037773.884732
+Comoros,COM,1992,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,134364952.923455
+Comoros,COM,1991,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,124588575.359151
+Comoros,COM,1990,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,126205417.190773
+Comoros,COM,1989,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,100311719.923559
+Comoros,COM,1988,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,104725367.945976
+Comoros,COM,1987,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,99153501.4791803
+Comoros,COM,1986,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,82017777.9070673
+Comoros,COM,1985,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,57790697.5367242
+Comoros,COM,1984,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,54257556.3219147
+Comoros,COM,1983,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,56289933.3284972
+Comoros,COM,1982,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,54056033.2735137
+Comoros,COM,1981,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,57678758.4254394
+Comoros,COM,1980,"Agriculture, forestry, and fishing, value added (current US$)",NV.AGR.TOTL.CD,62339735.5609096
+Comoros,COM,2023,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,37.1852737709758
+Comoros,COM,2022,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,36.4121960127207
+Comoros,COM,2021,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.511652408758
+Comoros,COM,2020,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.7974035819198
+Comoros,COM,2019,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,35.6200979878781
+Comoros,COM,2018,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,33.7201530586489
+Comoros,COM,2017,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.8988868689753
+Comoros,COM,2016,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,31.3684720287721
+Comoros,COM,2015,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.5986282117727
+Comoros,COM,2014,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.0114505077364
+Comoros,COM,2013,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.7898625558374
+Comoros,COM,2012,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.1729634123769
+Comoros,COM,2011,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.5642208431509
+Comoros,COM,2010,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.4160594989716
+Comoros,COM,2009,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,30.0330064008618
+Comoros,COM,2008,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.138915008097
+Comoros,COM,2007,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,28.956646255431
+Comoros,COM,2006,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3763406283002
+Comoros,COM,2005,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3762738871979
+Comoros,COM,2004,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3760199175687
+Comoros,COM,2003,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3761272718864
+Comoros,COM,2002,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3760124174837
+Comoros,COM,2001,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3762865772716
+Comoros,COM,2000,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3763199401182
+Comoros,COM,1999,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3763589418373
+Comoros,COM,1998,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3758434753934
+Comoros,COM,1997,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3759989970853
+Comoros,COM,1996,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3761105626851
+Comoros,COM,1995,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3764706671047
+Comoros,COM,1994,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3762696561583
+Comoros,COM,1993,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3758480325644
+Comoros,COM,1992,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3765384170618
+Comoros,COM,1991,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3765619384335
+Comoros,COM,1990,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.375908352569
+Comoros,COM,1989,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3758548832769
+Comoros,COM,1988,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3759770959296
+Comoros,COM,1987,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3765649953666
+Comoros,COM,1986,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.37623465409
+Comoros,COM,1985,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3762233964314
+Comoros,COM,1984,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3764869151467
+Comoros,COM,1983,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3755135579293
+Comoros,COM,1982,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3768398769556
+Comoros,COM,1981,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3754919968512
+Comoros,COM,1980,"Agriculture, forestry, and fishing, value added (% of GDP)",NV.AGR.TOTL.ZS,29.3752927269889
+Comoros,COM,2023,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,34.7213722940412
+Comoros,COM,2022,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,34.9116248116033
+Comoros,COM,2021,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.4922358518278
+Comoros,COM,2020,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.402547825341
+Comoros,COM,2019,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.558646783886
+Comoros,COM,2018,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,35.8363743378458
+Comoros,COM,2017,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.3070928097718
+Comoros,COM,2016,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.4687189672294
+Comoros,COM,2015,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.4615578558122
+Comoros,COM,2014,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,36.049064103705
+Comoros,COM,2013,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,38.8031386119079
+Comoros,COM,2012,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,41.7475123409689
+Comoros,COM,2011,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,44.5596850091232
+Comoros,COM,2010,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,47.5356402067626
+Comoros,COM,2009,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,50.5085435313263
+Comoros,COM,2008,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,52.8747469105634
+Comoros,COM,2007,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,55.6106856505951
+Comoros,COM,2006,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,58.2134858496678
+Comoros,COM,2005,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,60.7523702333035
+Comoros,COM,2004,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,63.0759541008129
+Comoros,COM,2003,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,63.8082664770996
+Comoros,COM,2002,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,64.5078043704474
+Comoros,COM,2001,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.1364976289144
+Comoros,COM,2000,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,65.7340355497037
+Comoros,COM,1999,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,66.4219727599214
+Comoros,COM,1998,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,66.8012436772008
+Comoros,COM,1997,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.0994540707334
+Comoros,COM,1996,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.4945375091041
+Comoros,COM,1995,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.6118555810567
+Comoros,COM,1994,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.9524405506884
+Comoros,COM,1993,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,67.839297943034
+Comoros,COM,1992,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,68.1185428256467
+Comoros,COM,1991,"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",SL.AGR.EMPL.FE.ZS,68.5105602431738
+Comoros,COM,2023,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,34.2369706469636
+Comoros,COM,2022,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,34.8975576030739
+Comoros,COM,2021,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,35.020844913841
+Comoros,COM,2020,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,35.8311402718195
+Comoros,COM,2019,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,36.0195513222208
+Comoros,COM,2018,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,36.6728542519362
+Comoros,COM,2017,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,37.4310195739329
+Comoros,COM,2016,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.2446211640728
+Comoros,COM,2015,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,38.8730829447316
+Comoros,COM,2014,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,39.1554551875071
+Comoros,COM,2013,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,40.4220279783557
+Comoros,COM,2012,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,41.801094254692
+Comoros,COM,2011,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,43.0107738089392
+Comoros,COM,2010,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,44.2728205128205
+Comoros,COM,2009,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,45.4165012393635
+Comoros,COM,2008,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,46.7578133776709
+Comoros,COM,2007,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,47.9873317870893
+Comoros,COM,2006,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,48.6518503893283
+Comoros,COM,2005,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,49.5928222789005
+Comoros,COM,2004,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,50.6393097357157
+Comoros,COM,2003,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,51.2928884208193
+Comoros,COM,2002,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,51.853626906487
+Comoros,COM,2001,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,52.4120154368988
+Comoros,COM,2000,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,52.9188489377979
+Comoros,COM,1999,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,54.5449075675757
+Comoros,COM,1998,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,54.8822374877331
+Comoros,COM,1997,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.1045203900433
+Comoros,COM,1996,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.5379295028396
+Comoros,COM,1995,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.46986943152
+Comoros,COM,1994,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.7278222512661
+Comoros,COM,1993,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.4116650894058
+Comoros,COM,1992,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.5353075170843
+Comoros,COM,1991,"Employment in agriculture, male (% of male employment) (modeled ILO estimate)",SL.AGR.EMPL.MA.ZS,55.9316481015277
+Comoros,COM,2023,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,34.4330766878409
+Comoros,COM,2022,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,34.9036436477649
+Comoros,COM,2021,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.2126374962393
+Comoros,COM,2020,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.6585471006682
+Comoros,COM,2019,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,35.8358868839882
+Comoros,COM,2018,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,36.3444795652415
+Comoros,COM,2017,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,36.9968689241932
+Comoros,COM,2016,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.5689522283849
+Comoros,COM,2015,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,37.9678750755803
+Comoros,COM,2014,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,38.0053923156756
+Comoros,COM,2013,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,39.8173500450673
+Comoros,COM,2012,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,41.7809023050561
+Comoros,COM,2011,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,43.6000438228098
+Comoros,COM,2010,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,45.5246894076312
+Comoros,COM,2009,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,47.3903472746986
+Comoros,COM,2008,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,49.1531447787514
+Comoros,COM,2007,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,51.0038132096412
+Comoros,COM,2006,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,52.4766036841793
+Comoros,COM,2005,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,54.1042272422277
+Comoros,COM,2004,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,55.7185575794601
+Comoros,COM,2003,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,56.368668605178
+Comoros,COM,2002,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,56.9634933440904
+Comoros,COM,2001,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,57.5349653357188
+Comoros,COM,2000,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,58.0622148632224
+Comoros,COM,1999,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,59.2926666305506
+Comoros,COM,1998,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,59.626268314976
+Comoros,COM,1997,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,59.8572342186442
+Comoros,COM,1996,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.2630771002034
+Comoros,COM,1995,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.2636553189002
+Comoros,COM,1994,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.5545670225385
+Comoros,COM,1993,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.3283228641955
+Comoros,COM,1992,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.5299576685119
+Comoros,COM,1991,Employment in agriculture (% of total employment) (modeled ILO estimate),SL.AGR.EMPL.ZS,60.9239153042972
+Comoros,COM,2023,Rural population,SP.RUR.TOTL,594148
+Comoros,COM,2022,Rural population,SP.RUR.TOTL,585066
+Comoros,COM,2021,Rural population,SP.RUR.TOTL,575888
+Comoros,COM,2020,Rural population,SP.RUR.TOTL,566488
+Comoros,COM,2019,Rural population,SP.RUR.TOTL,557180
+Comoros,COM,2018,Rural population,SP.RUR.TOTL,548099
+Comoros,COM,2017,Rural population,SP.RUR.TOTL,538869
+Comoros,COM,2016,Rural population,SP.RUR.TOTL,529462
+Comoros,COM,2015,Rural population,SP.RUR.TOTL,519796
+Comoros,COM,2014,Rural population,SP.RUR.TOTL,509877
+Comoros,COM,2013,Rural population,SP.RUR.TOTL,499706
+Comoros,COM,2012,Rural population,SP.RUR.TOTL,489935
+Comoros,COM,2011,Rural population,SP.RUR.TOTL,480733
+Comoros,COM,2010,Rural population,SP.RUR.TOTL,471659
+Comoros,COM,2009,Rural population,SP.RUR.TOTL,462709
+Comoros,COM,2008,Rural population,SP.RUR.TOTL,453818
+Comoros,COM,2007,Rural population,SP.RUR.TOTL,445008
+Comoros,COM,2006,Rural population,SP.RUR.TOTL,436251
+Comoros,COM,2005,Rural population,SP.RUR.TOTL,427468
+Comoros,COM,2004,Rural population,SP.RUR.TOTL,418670
+Comoros,COM,2003,Rural population,SP.RUR.TOTL,410557
+Comoros,COM,2002,Rural population,SP.RUR.TOTL,402469
+Comoros,COM,2001,Rural population,SP.RUR.TOTL,393801
+Comoros,COM,2000,Rural population,SP.RUR.TOTL,385549
+Comoros,COM,1999,Rural population,SP.RUR.TOTL,377986
+Comoros,COM,1998,Rural population,SP.RUR.TOTL,371082
+Comoros,COM,1997,Rural population,SP.RUR.TOTL,364518
+Comoros,COM,1996,Rural population,SP.RUR.TOTL,358074
+Comoros,COM,1995,Rural population,SP.RUR.TOTL,351745
+Comoros,COM,1994,Rural population,SP.RUR.TOTL,345474
+Comoros,COM,1993,Rural population,SP.RUR.TOTL,339204
+Comoros,COM,1992,Rural population,SP.RUR.TOTL,332858
+Comoros,COM,1991,Rural population,SP.RUR.TOTL,326333
+Comoros,COM,1990,Rural population,SP.RUR.TOTL,320692
+Comoros,COM,1989,Rural population,SP.RUR.TOTL,314528
+Comoros,COM,1988,Rural population,SP.RUR.TOTL,308283
+Comoros,COM,1987,Rural population,SP.RUR.TOTL,302030
+Comoros,COM,1986,Rural population,SP.RUR.TOTL,295743
+Comoros,COM,1985,Rural population,SP.RUR.TOTL,289443
+Comoros,COM,1984,Rural population,SP.RUR.TOTL,283205
+Comoros,COM,1983,Rural population,SP.RUR.TOTL,277085
+Comoros,COM,1982,Rural population,SP.RUR.TOTL,271086
+Comoros,COM,1981,Rural population,SP.RUR.TOTL,265230
+Comoros,COM,1980,Rural population,SP.RUR.TOTL,259319
+Comoros,COM,1979,Rural population,SP.RUR.TOTL,253022
+Comoros,COM,1978,Rural population,SP.RUR.TOTL,246494
+Comoros,COM,1977,Rural population,SP.RUR.TOTL,239869
+Comoros,COM,1976,Rural population,SP.RUR.TOTL,233195
+Comoros,COM,1975,Rural population,SP.RUR.TOTL,226589
+Comoros,COM,1974,Rural population,SP.RUR.TOTL,220071
+Comoros,COM,1973,Rural population,SP.RUR.TOTL,213755
+Comoros,COM,1972,Rural population,SP.RUR.TOTL,207763
+Comoros,COM,1971,Rural population,SP.RUR.TOTL,202122
+Comoros,COM,1970,Rural population,SP.RUR.TOTL,196838
+Comoros,COM,1969,Rural population,SP.RUR.TOTL,191888
+Comoros,COM,1968,Rural population,SP.RUR.TOTL,187223
+Comoros,COM,1967,Rural population,SP.RUR.TOTL,182803
+Comoros,COM,1966,Rural population,SP.RUR.TOTL,179304
+Comoros,COM,1965,Rural population,SP.RUR.TOTL,178470
+Comoros,COM,1964,Rural population,SP.RUR.TOTL,177772
+Comoros,COM,1963,Rural population,SP.RUR.TOTL,176803
+Comoros,COM,1962,Rural population,SP.RUR.TOTL,175657
+Comoros,COM,1961,Rural population,SP.RUR.TOTL,174345
+Comoros,COM,1960,Rural population,SP.RUR.TOTL,172887
+Comoros,COM,2023,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.540378519612
+Comoros,COM,2022,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.58114640362468
+Comoros,COM,2021,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.64572998017649
+Comoros,COM,2020,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.65675500359423
+Comoros,COM,2019,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.64324199411444
+Comoros,COM,2018,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.69834288680968
+Comoros,COM,2017,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.76111020483632
+Comoros,COM,2016,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.84249697389928
+Comoros,COM,2015,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.92669067503093
+Comoros,COM,2014,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.01495946776652
+Comoros,COM,2013,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.97471962381437
+Comoros,COM,2012,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.89607068150493
+Comoros,COM,2011,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.90557555690403
+Comoros,COM,2010,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.91579200881825
+Comoros,COM,2009,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.9402110162193
+Comoros,COM,2008,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.96039770770509
+Comoros,COM,2007,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.98744937551163
+Comoros,COM,2006,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.03383340036603
+Comoros,COM,2005,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.07964116621808
+Comoros,COM,2004,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.95682458039556
+Comoros,COM,2003,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.98966990488328
+Comoros,COM,2002,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.17723696971081
+Comoros,COM,2001,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.11774129835918
+Comoros,COM,2000,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.98111346816278
+Comoros,COM,1999,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.84340954527303
+Comoros,COM,1998,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.78471294984563
+Comoros,COM,1997,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.78362639944711
+Comoros,COM,1996,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.78331876986157
+Comoros,COM,1995,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.79890941324833
+Comoros,COM,1994,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.83156908188579
+Comoros,COM,1993,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.88857236926342
+Comoros,COM,1992,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.97976401969941
+Comoros,COM,1991,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.74371714553203
+Comoros,COM,1990,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.94080585718802
+Comoros,COM,1989,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.00549101087751
+Comoros,COM,1988,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.04918420858971
+Comoros,COM,1987,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.10355162502103
+Comoros,COM,1986,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.15324475036114
+Comoros,COM,1985,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.17873694047825
+Comoros,COM,1984,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.18466987094843
+Comoros,COM,1983,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.18882046110198
+Comoros,COM,1982,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.18387396246154
+Comoros,COM,1981,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.25384100258585
+Comoros,COM,1980,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.4582522591204
+Comoros,COM,1979,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.61387890530479
+Comoros,COM,1978,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.7244711428298
+Comoros,COM,1977,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.82179275642625
+Comoros,COM,1976,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.87372096968493
+Comoros,COM,1975,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.91875821664584
+Comoros,COM,1974,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.91197222036933
+Comoros,COM,1973,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.84324923677504
+Comoros,COM,1972,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.75265315018342
+Comoros,COM,1971,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.64904200768838
+Comoros,COM,1970,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.54691869203173
+Comoros,COM,1969,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.46114487450809
+Comoros,COM,1968,Rural population growth (annual %),SP.RUR.TOTL.ZG,2.38913494803439
+Comoros,COM,1967,Rural population growth (annual %),SP.RUR.TOTL.ZG,1.93263809223305
+Comoros,COM,1966,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.466216947368579
+Comoros,COM,1965,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.391868950440719
+Comoros,COM,1964,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.546571197814233
+Comoros,COM,1963,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.650288848924148
+Comoros,COM,1962,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.749713513235206
+Comoros,COM,1961,Rural population growth (annual %),SP.RUR.TOTL.ZG,0.839789287121804
+Comoros,COM,2023,Rural population (% of total population),SP.RUR.TOTL.ZS,69.868
+Comoros,COM,2022,Rural population (% of total population),SP.RUR.TOTL.ZS,70.136
+Comoros,COM,2021,Rural population (% of total population),SP.RUR.TOTL.ZS,70.387
+Comoros,COM,2020,Rural population (% of total population),SP.RUR.TOTL.ZS,70.62
+Comoros,COM,2019,Rural population (% of total population),SP.RUR.TOTL.ZS,70.836
+Comoros,COM,2018,Rural population (% of total population),SP.RUR.TOTL.ZS,71.035
+Comoros,COM,2017,Rural population (% of total population),SP.RUR.TOTL.ZS,71.216
+Comoros,COM,2016,Rural population (% of total population),SP.RUR.TOTL.ZS,71.381
+Comoros,COM,2015,Rural population (% of total population),SP.RUR.TOTL.ZS,71.53
+Comoros,COM,2014,Rural population (% of total population),SP.RUR.TOTL.ZS,71.662
+Comoros,COM,2013,Rural population (% of total population),SP.RUR.TOTL.ZS,71.777
+Comoros,COM,2012,Rural population (% of total population),SP.RUR.TOTL.ZS,71.877
+Comoros,COM,2011,Rural population (% of total population),SP.RUR.TOTL.ZS,71.96
+Comoros,COM,2010,Rural population (% of total population),SP.RUR.TOTL.ZS,72.027
+Comoros,COM,2009,Rural population (% of total population),SP.RUR.TOTL.ZS,72.079
+Comoros,COM,2008,Rural population (% of total population),SP.RUR.TOTL.ZS,72.114
+Comoros,COM,2007,Rural population (% of total population),SP.RUR.TOTL.ZS,72.133
+Comoros,COM,2006,Rural population (% of total population),SP.RUR.TOTL.ZS,72.137
+Comoros,COM,2005,Rural population (% of total population),SP.RUR.TOTL.ZS,72.125
+Comoros,COM,2004,Rural population (% of total population),SP.RUR.TOTL.ZS,72.097
+Comoros,COM,2003,Rural population (% of total population),SP.RUR.TOTL.ZS,72.053
+Comoros,COM,2002,Rural population (% of total population),SP.RUR.TOTL.ZS,72.008
+Comoros,COM,2001,Rural population (% of total population),SP.RUR.TOTL.ZS,71.964
+Comoros,COM,2000,Rural population (% of total population),SP.RUR.TOTL.ZS,71.92
+Comoros,COM,1999,Rural population (% of total population),SP.RUR.TOTL.ZS,71.876
+Comoros,COM,1998,Rural population (% of total population),SP.RUR.TOTL.ZS,71.832
+Comoros,COM,1997,Rural population (% of total population),SP.RUR.TOTL.ZS,71.787
+Comoros,COM,1996,Rural population (% of total population),SP.RUR.TOTL.ZS,71.743
+Comoros,COM,1995,Rural population (% of total population),SP.RUR.TOTL.ZS,71.699
+Comoros,COM,1994,Rural population (% of total population),SP.RUR.TOTL.ZS,71.654
+Comoros,COM,1993,Rural population (% of total population),SP.RUR.TOTL.ZS,71.61
+Comoros,COM,1992,Rural population (% of total population),SP.RUR.TOTL.ZS,71.565
+Comoros,COM,1991,Rural population (% of total population),SP.RUR.TOTL.ZS,71.634
+Comoros,COM,1990,Rural population (% of total population),SP.RUR.TOTL.ZS,72.131
+Comoros,COM,1989,Rural population (% of total population),SP.RUR.TOTL.ZS,72.622
+Comoros,COM,1988,Rural population (% of total population),SP.RUR.TOTL.ZS,73.107
+Comoros,COM,1987,Rural population (% of total population),SP.RUR.TOTL.ZS,73.587
+Comoros,COM,1986,Rural population (% of total population),SP.RUR.TOTL.ZS,74.062
+Comoros,COM,1985,Rural population (% of total population),SP.RUR.TOTL.ZS,74.531
+Comoros,COM,1984,Rural population (% of total population),SP.RUR.TOTL.ZS,74.994
+Comoros,COM,1983,Rural population (% of total population),SP.RUR.TOTL.ZS,75.452
+Comoros,COM,1982,Rural population (% of total population),SP.RUR.TOTL.ZS,75.905
+Comoros,COM,1981,Rural population (% of total population),SP.RUR.TOTL.ZS,76.351
+Comoros,COM,1980,Rural population (% of total population),SP.RUR.TOTL.ZS,76.785
+Comoros,COM,1979,Rural population (% of total population),SP.RUR.TOTL.ZS,77.19
+Comoros,COM,1978,Rural population (% of total population),SP.RUR.TOTL.ZS,77.59
+Comoros,COM,1977,Rural population (% of total population),SP.RUR.TOTL.ZS,77.986
+Comoros,COM,1976,Rural population (% of total population),SP.RUR.TOTL.ZS,78.375
+Comoros,COM,1975,Rural population (% of total population),SP.RUR.TOTL.ZS,78.761
+Comoros,COM,1974,Rural population (% of total population),SP.RUR.TOTL.ZS,79.141
+Comoros,COM,1973,Rural population (% of total population),SP.RUR.TOTL.ZS,79.516
+Comoros,COM,1972,Rural population (% of total population),SP.RUR.TOTL.ZS,79.885
+Comoros,COM,1971,Rural population (% of total population),SP.RUR.TOTL.ZS,80.25
+Comoros,COM,1970,Rural population (% of total population),SP.RUR.TOTL.ZS,80.61
+Comoros,COM,1969,Rural population (% of total population),SP.RUR.TOTL.ZS,80.965
+Comoros,COM,1968,Rural population (% of total population),SP.RUR.TOTL.ZS,81.315
+Comoros,COM,1967,Rural population (% of total population),SP.RUR.TOTL.ZS,81.66
+Comoros,COM,1966,Rural population (% of total population),SP.RUR.TOTL.ZS,82
+Comoros,COM,1965,Rural population (% of total population),SP.RUR.TOTL.ZS,83.022
+Comoros,COM,1964,Rural population (% of total population),SP.RUR.TOTL.ZS,83.996
+Comoros,COM,1963,Rural population (% of total population),SP.RUR.TOTL.ZS,84.926
+Comoros,COM,1962,Rural population (% of total population),SP.RUR.TOTL.ZS,85.811
+Comoros,COM,1961,Rural population (% of total population),SP.RUR.TOTL.ZS,86.652
+Comoros,COM,1960,Rural population (% of total population),SP.RUR.TOTL.ZS,87.449
+Comoros,COM,2021,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.729063766854946
+Comoros,COM,2020,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.879510070799565
+Comoros,COM,2019,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.934337203013169
+Comoros,COM,2018,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.862891779527367
+Comoros,COM,2017,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.651983589099082
+Comoros,COM,2016,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.04229787470295
+Comoros,COM,2015,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.565015142499501
+Comoros,COM,2014,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.67004748228264
+Comoros,COM,2013,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.794259650918634
+Comoros,COM,2012,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.515195674047577
+Comoros,COM,2011,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.659371594623184
+Comoros,COM,2010,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.02400383194629
+Comoros,COM,2009,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.705956637177821
+Comoros,COM,2008,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.539545454320291
+Comoros,COM,2007,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.239493515051877
+Comoros,COM,2006,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.306039183679701
+Comoros,COM,2005,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.336865594713441
+Comoros,COM,2004,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.749507145061079
+Comoros,COM,2003,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.836965439344275
+Comoros,COM,2002,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.948037429648135
+Comoros,COM,2001,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.753060575949908
+Comoros,COM,2000,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.860387725312621
+Comoros,COM,1999,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.411523262486835
+Comoros,COM,1998,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.79356086326581
+Comoros,COM,1997,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.25281878092591
+Comoros,COM,1996,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,1.25675747250225
+Comoros,COM,1995,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.926261553166379
+Comoros,COM,1962,Agricultural raw materials imports (% of merchandise imports),TM.VAL.AGRI.ZS.UN,0.461376219351437
+Comoros,COM,2021,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0697174297679585
+Comoros,COM,2019,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00418130927697661
+Comoros,COM,2018,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.000491692186071291
+Comoros,COM,2017,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.012960770698711
+Comoros,COM,2016,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00848115895739681
+Comoros,COM,2014,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00128910817315613
+Comoros,COM,2013,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00080135200736569
+Comoros,COM,2012,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.000873306089417811
+Comoros,COM,2010,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.531829518193173
+Comoros,COM,2009,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0671815356852974
+Comoros,COM,2008,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00341937671788549
+Comoros,COM,2006,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0246842521038593
+Comoros,COM,2005,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.068197013713989
+Comoros,COM,2004,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0337331732557028
+Comoros,COM,2003,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0880355359749151
+Comoros,COM,2002,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.013888322255335
+Comoros,COM,2001,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0507848286376456
+Comoros,COM,2000,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00155989640059477
+Comoros,COM,1997,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00973649283710386
+Comoros,COM,1996,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.0264953722664943
+Comoros,COM,1995,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,0.00173252750546154
+Comoros,COM,1962,Agricultural raw materials exports (% of merchandise exports),TX.VAL.AGRI.ZS.UN,19.3705263622478
+Comoros,COM,2012,Economically active population in agriculture (number),EN.AGR.EMPL,234000
+Comoros,COM,2011,Economically active population in agriculture (number),EN.AGR.EMPL,228000
+Comoros,COM,2010,Economically active population in agriculture (number),EN.AGR.EMPL,222000
+Comoros,COM,2009,Economically active population in agriculture (number),EN.AGR.EMPL,216000
+Comoros,COM,2008,Economically active population in agriculture (number),EN.AGR.EMPL,210000
+Comoros,COM,2007,Economically active population in agriculture (number),EN.AGR.EMPL,205000
+Comoros,COM,2006,Economically active population in agriculture (number),EN.AGR.EMPL,200000
+Comoros,COM,2005,Economically active population in agriculture (number),EN.AGR.EMPL,195000
+Comoros,COM,2004,Economically active population in agriculture (number),EN.AGR.EMPL,190000
+Comoros,COM,2003,Economically active population in agriculture (number),EN.AGR.EMPL,185000
+Comoros,COM,2002,Economically active population in agriculture (number),EN.AGR.EMPL,180000
+Comoros,COM,2001,Economically active population in agriculture (number),EN.AGR.EMPL,176000
+Comoros,COM,2000,Economically active population in agriculture (number),EN.AGR.EMPL,171000
+Comoros,COM,1999,Economically active population in agriculture (number),EN.AGR.EMPL,167000
+Comoros,COM,1998,Economically active population in agriculture (number),EN.AGR.EMPL,163000
+Comoros,COM,1997,Economically active population in agriculture (number),EN.AGR.EMPL,159000
+Comoros,COM,1996,Economically active population in agriculture (number),EN.AGR.EMPL,155000
+Comoros,COM,1995,Economically active population in agriculture (number),EN.AGR.EMPL,152000
+Comoros,COM,1994,Economically active population in agriculture (number),EN.AGR.EMPL,148000
+Comoros,COM,1993,Economically active population in agriculture (number),EN.AGR.EMPL,145000
+Comoros,COM,1992,Economically active population in agriculture (number),EN.AGR.EMPL,141000
+Comoros,COM,1991,Economically active population in agriculture (number),EN.AGR.EMPL,138000
+Comoros,COM,1990,Economically active population in agriculture (number),EN.AGR.EMPL,135000
+Comoros,COM,1989,Economically active population in agriculture (number),EN.AGR.EMPL,132000
+Comoros,COM,1988,Economically active population in agriculture (number),EN.AGR.EMPL,129000
+Comoros,COM,1987,Economically active population in agriculture (number),EN.AGR.EMPL,126000
+Comoros,COM,1986,Economically active population in agriculture (number),EN.AGR.EMPL,123000
+Comoros,COM,1985,Economically active population in agriculture (number),EN.AGR.EMPL,120000
+Comoros,COM,1984,Economically active population in agriculture (number),EN.AGR.EMPL,117000
+Comoros,COM,1983,Economically active population in agriculture (number),EN.AGR.EMPL,114000
+Comoros,COM,1982,Economically active population in agriculture (number),EN.AGR.EMPL,111000
+Comoros,COM,1981,Economically active population in agriculture (number),EN.AGR.EMPL,108000
+Comoros,COM,1980,Economically active population in agriculture (number),EN.AGR.EMPL,104000
