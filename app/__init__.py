@@ -1,0 +1,1 @@
+# Just a simple empty __init__.py so that python can treat the 'app' folder as a package
